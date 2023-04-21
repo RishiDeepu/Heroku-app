@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #2874f0;
+    height: 56px;
+}
+.textarea{
+    background-color: #ffffff;
+    height: 20px;
+    width: 20px;
+    /* margin-top: 20px; */
+    padding-top: 80px;
+    margin-left: 50px;
+}
